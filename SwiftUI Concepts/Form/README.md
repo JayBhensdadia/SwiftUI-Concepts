@@ -17,7 +17,7 @@
         }
     }
 ```
-<img src="Screenshots/simpleForm.png" width="50%" height="10%">
+<img src="Screenshots/simpleForm.png" width="50%" height="10%" />
 
 ```swift
     var body : some View{
@@ -35,7 +35,7 @@
         
     }
 ```
-<img src="Screenshots/formWithGroups.png" width="50%" height="10%">
+<img src="Screenshots/formWithGroups.png" width="50%" height="10%" />
 
 ```swift
     var body : some View{
@@ -56,6 +56,6 @@
 ```
 
 
-<img src="Screenshots/formWithSections.png" width="50%" height="10%">
+<img src="Screenshots/formWithSections.png" width="50%" height="10%" />
 
 
