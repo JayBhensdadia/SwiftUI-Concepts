@@ -53,6 +53,9 @@
 			children = (
 				499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */,
 				499A93E529B18AD600875591 /* ContentView.swift */,
+				499A93F129B18AEE00875591 /* Form */,
+				499A93F229B18AFF00875591 /* NavigationView */,
+				499A93F329B18B1200875591 /* @State */,
 				499A93E729B18AD700875591 /* Assets.xcassets */,
 				499A93E929B18AD700875591 /* Preview Content */,
 			);
@@ -65,6 +68,27 @@
 				499A93EA29B18AD700875591 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		499A93F129B18AEE00875591 /* Form */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Form;
+			sourceTree = "<group>";
+		};
+		499A93F229B18AFF00875591 /* NavigationView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = NavigationView;
+			sourceTree = "<group>";
+		};
+		499A93F329B18B1200875591 /* @State */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "@State";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
