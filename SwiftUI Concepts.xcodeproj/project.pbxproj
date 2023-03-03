@@ -11,6 +11,7 @@
 		499A93E629B18AD600875591 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93E529B18AD600875591 /* ContentView.swift */; };
 		499A93E829B18AD700875591 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499A93E729B18AD700875591 /* Assets.xcassets */; };
 		499A93EB29B18AD700875591 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499A93EA29B18AD700875591 /* Preview Assets.xcassets */; };
+		499A93F529B18DBC00875591 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93F429B18DBC00875591 /* FormView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		499A93E529B18AD600875591 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		499A93E729B18AD700875591 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		499A93EA29B18AD700875591 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		499A93F429B18DBC00875591 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,8 @@
 		499A93F129B18AEE00875591 /* Form */ = {
 			isa = PBXGroup;
 			children = (
+				499A93F429B18DBC00875591 /* FormView.swift */,
+				499A93F629B18F1200875591 /* Screenshots */,
 			);
 			path = Form;
 			sourceTree = "<group>";
@@ -89,6 +93,13 @@
 			children = (
 			);
 			path = "@State";
+			sourceTree = "<group>";
+		};
+		499A93F629B18F1200875591 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				499A93F529B18DBC00875591 /* FormView.swift in Sources */,
 				499A93E629B18AD600875591 /* ContentView.swift in Sources */,
 				499A93E429B18AD600875591 /* SwiftUI_ConceptsApp.swift in Sources */,
 			);
