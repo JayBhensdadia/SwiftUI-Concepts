@@ -77,7 +77,6 @@
 		499A93D729B18AD600875591 = {
 			isa = PBXGroup;
 			children = (
-				4930DBC829B2EBA400F2CCB3 /* README.md */,
 				499A93E229B18AD600875591 /* SwiftUI Concepts */,
 				499A93E129B18AD600875591 /* Products */,
 			);
@@ -94,6 +93,7 @@
 		499A93E229B18AD600875591 /* SwiftUI Concepts */ = {
 			isa = PBXGroup;
 			children = (
+				4930DBC829B2EBA400F2CCB3 /* README.md */,
 				499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */,
 				499A93E529B18AD600875591 /* ContentView.swift */,
 				499A93F129B18AEE00875591 /* Form */,
