@@ -14,7 +14,7 @@
 		4930DBBB29B2DCBC00F2CCB3 /* List.md in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBBA29B2DCBC00F2CCB3 /* List.md */; };
 		4930DBC029B2DF3900F2CCB3 /* AppBundleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4930DBBF29B2DF3900F2CCB3 /* AppBundleView.swift */; };
 		4930DBC229B2E0AD00F2CCB3 /* SomeFile.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBC129B2E0AD00F2CCB3 /* SomeFile.txt */; };
-		4930DBC429B2E2EA00F2CCB3 /* Bundle.md in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBC329B2E2EA00F2CCB3 /* Bundle.md */; };
+		4930DBC429B2E2EA00F2CCB3 /* AppBundle.md in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */; };
 		499A93E429B18AD600875591 /* SwiftUI_ConceptsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */; };
 		499A93E629B18AD600875591 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93E529B18AD600875591 /* ContentView.swift */; };
 		499A93E829B18AD700875591 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499A93E729B18AD700875591 /* Assets.xcassets */; };
@@ -31,7 +31,7 @@
 		4930DBBA29B2DCBC00F2CCB3 /* List.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = List.md; sourceTree = "<group>"; };
 		4930DBBF29B2DF3900F2CCB3 /* AppBundleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBundleView.swift; sourceTree = "<group>"; };
 		4930DBC129B2E0AD00F2CCB3 /* SomeFile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SomeFile.txt; sourceTree = "<group>"; };
-		4930DBC329B2E2EA00F2CCB3 /* Bundle.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Bundle.md; sourceTree = "<group>"; };
+		4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AppBundle.md; sourceTree = "<group>"; };
 		499A93E029B18AD600875591 /* SwiftUI Concepts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Concepts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ConceptsApp.swift; sourceTree = "<group>"; };
 		499A93E529B18AD600875591 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			children = (
 				4930DBC129B2E0AD00F2CCB3 /* SomeFile.txt */,
 				4930DBBF29B2DF3900F2CCB3 /* AppBundleView.swift */,
-				4930DBC329B2E2EA00F2CCB3 /* Bundle.md */,
+				4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */,
 			);
 			path = AppBundle;
 			sourceTree = "<group>";
@@ -209,7 +209,7 @@
 				4930DBBB29B2DCBC00F2CCB3 /* List.md in Resources */,
 				499A93E829B18AD700875591 /* Assets.xcassets in Resources */,
 				4930DBB629B2DC9400F2CCB3 /* simpleForm.png in Resources */,
-				4930DBC429B2E2EA00F2CCB3 /* Bundle.md in Resources */,
+				4930DBC429B2E2EA00F2CCB3 /* AppBundle.md in Resources */,
 				4930DBC229B2E0AD00F2CCB3 /* SomeFile.txt in Resources */,
 				4930DBB729B2DC9400F2CCB3 /* formWithGroups.png in Resources */,
 			);
