@@ -55,8 +55,8 @@
 		4930DBBC29B2DEED00F2CCB3 /* AppBundle */ = {
 			isa = PBXGroup;
 			children = (
-				4930DBC129B2E0AD00F2CCB3 /* SomeFile.txt */,
 				4930DBBF29B2DF3900F2CCB3 /* AppBundleView.swift */,
+				4930DBC129B2E0AD00F2CCB3 /* SomeFile.txt */,
 				4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */,
 			);
 			path = AppBundle;
