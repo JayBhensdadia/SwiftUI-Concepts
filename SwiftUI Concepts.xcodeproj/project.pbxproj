@@ -17,6 +17,8 @@
 		4930DBC429B2E2EA00F2CCB3 /* AppBundle.md in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */; };
 		4930DBC729B2E53800F2CCB3 /* StringsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4930DBC629B2E53800F2CCB3 /* StringsView.swift */; };
 		4930DBC929B2EBA500F2CCB3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4930DBC829B2EBA400F2CCB3 /* README.md */; };
+		4987650429B6030D0080E1A9 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4987650329B6030D0080E1A9 /* AnimationView.swift */; };
+		4987650629B605D50080E1A9 /* Animations.md in Resources */ = {isa = PBXBuildFile; fileRef = 4987650529B605D50080E1A9 /* Animations.md */; };
 		499A93E429B18AD600875591 /* SwiftUI_ConceptsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */; };
 		499A93E629B18AD600875591 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93E529B18AD600875591 /* ContentView.swift */; };
 		499A93E829B18AD700875591 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499A93E729B18AD700875591 /* Assets.xcassets */; };
@@ -36,6 +38,8 @@
 		4930DBC329B2E2EA00F2CCB3 /* AppBundle.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AppBundle.md; sourceTree = "<group>"; };
 		4930DBC629B2E53800F2CCB3 /* StringsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringsView.swift; sourceTree = "<group>"; };
 		4930DBC829B2EBA400F2CCB3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4987650329B6030D0080E1A9 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		4987650529B605D50080E1A9 /* Animations.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Animations.md; sourceTree = "<group>"; };
 		499A93E029B18AD600875591 /* SwiftUI Concepts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Concepts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		499A93E329B18AD600875591 /* SwiftUI_ConceptsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ConceptsApp.swift; sourceTree = "<group>"; };
 		499A93E529B18AD600875591 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +78,15 @@
 			path = Strings;
 			sourceTree = "<group>";
 		};
+		4987650229B602E50080E1A9 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				4987650329B6030D0080E1A9 /* AnimationView.swift */,
+				4987650529B605D50080E1A9 /* Animations.md */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
 		499A93D729B18AD600875591 = {
 			isa = PBXGroup;
 			children = (
@@ -102,6 +115,7 @@
 				499A93F729B2137100875591 /* List */,
 				4930DBBC29B2DEED00F2CCB3 /* AppBundle */,
 				4930DBC529B2E52200F2CCB3 /* Strings */,
+				4987650229B602E50080E1A9 /* Animation */,
 				499A93E729B18AD700875591 /* Assets.xcassets */,
 				499A93E929B18AD700875591 /* Preview Content */,
 			);
@@ -223,6 +237,7 @@
 				4930DBB529B2DC9400F2CCB3 /* formWithSections.png in Resources */,
 				4930DBBB29B2DCBC00F2CCB3 /* List.md in Resources */,
 				499A93E829B18AD700875591 /* Assets.xcassets in Resources */,
+				4987650629B605D50080E1A9 /* Animations.md in Resources */,
 				4930DBB629B2DC9400F2CCB3 /* simpleForm.png in Resources */,
 				4930DBC429B2E2EA00F2CCB3 /* AppBundle.md in Resources */,
 				4930DBC229B2E0AD00F2CCB3 /* SomeFile.txt in Resources */,
@@ -241,6 +256,7 @@
 				499A93F529B18DBC00875591 /* FormView.swift in Sources */,
 				499A93E629B18AD600875591 /* ContentView.swift in Sources */,
 				4930DBC029B2DF3900F2CCB3 /* AppBundleView.swift in Sources */,
+				4987650429B6030D0080E1A9 /* AnimationView.swift in Sources */,
 				499A93E429B18AD600875591 /* SwiftUI_ConceptsApp.swift in Sources */,
 				4930DBC729B2E53800F2CCB3 /* StringsView.swift in Sources */,
 			);
