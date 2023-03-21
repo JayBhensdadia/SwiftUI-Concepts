@@ -27,6 +27,8 @@
 		499A93EB29B18AD700875591 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499A93EA29B18AD700875591 /* Preview Assets.xcassets */; };
 		499A93F529B18DBC00875591 /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93F429B18DBC00875591 /* FormView.swift */; };
 		499A93F929B213AB00875591 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93F829B213AB00875591 /* ListView.swift */; };
+		49A2EFDC29CA12C300FB434C /* ss2.png in Resources */ = {isa = PBXBuildFile; fileRef = 49A2EFDA29CA12C300FB434C /* ss2.png */; };
+		49A2EFDD29CA12C300FB434C /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = 49A2EFDB29CA12C300FB434C /* ss1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +53,8 @@
 		499A93EA29B18AD700875591 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		499A93F429B18DBC00875591 /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 		499A93F829B213AB00875591 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		49A2EFDA29CA12C300FB434C /* ss2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss2.png; sourceTree = "<group>"; };
+		49A2EFDB29CA12C300FB434C /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,8 +187,18 @@
 		49A2EFD829CA116B00FB434C /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				49A2EFD929CA11E300FB434C /* SimpleImplicitAnimation */,
 			);
 			path = Screenshots;
+			sourceTree = "<group>";
+		};
+		49A2EFD929CA11E300FB434C /* SimpleImplicitAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				49A2EFDB29CA12C300FB434C /* ss1.png */,
+				49A2EFDA29CA12C300FB434C /* ss2.png */,
+			);
+			path = SimpleImplicitAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,8 +265,10 @@
 				4930DBB529B2DC9400F2CCB3 /* formWithSections.png in Resources */,
 				4930DBBB29B2DCBC00F2CCB3 /* List.md in Resources */,
 				499A93E829B18AD700875591 /* Assets.xcassets in Resources */,
+				49A2EFDC29CA12C300FB434C /* ss2.png in Resources */,
 				4987650629B605D50080E1A9 /* Animations.md in Resources */,
 				4930DBB629B2DC9400F2CCB3 /* simpleForm.png in Resources */,
+				49A2EFDD29CA12C300FB434C /* ss1.png in Resources */,
 				4930DBC429B2E2EA00F2CCB3 /* AppBundle.md in Resources */,
 				4930DBC229B2E0AD00F2CCB3 /* SomeFile.txt in Resources */,
 				4930DBB729B2DC9400F2CCB3 /* formWithGroups.png in Resources */,
