@@ -29,6 +29,18 @@
 		499A93F929B213AB00875591 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499A93F829B213AB00875591 /* ListView.swift */; };
 		49A2EFDC29CA12C300FB434C /* ss2.png in Resources */ = {isa = PBXBuildFile; fileRef = 49A2EFDA29CA12C300FB434C /* ss2.png */; };
 		49A2EFDD29CA12C300FB434C /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = 49A2EFDB29CA12C300FB434C /* ss1.png */; };
+		49A8BA9F29D1EE3900E8702C /* @StateLimitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BA9E29D1EE3900E8702C /* @StateLimitationView.swift */; };
+		49A8BAA229D1F13000E8702C /* @StateObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BAA129D1F13000E8702C /* @StateObjectView.swift */; };
+		49A8BAA529D1F3D800E8702C /* MultipleViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BAA429D1F3D800E8702C /* MultipleViews.swift */; };
+		49A8BAA829D1F76D00E8702C /* onDeleteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BAA729D1F76D00E8702C /* onDeleteView.swift */; };
+		49A8BAAB29D1FC3900E8702C /* UserDefaultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BAAA29D1FC3900E8702C /* UserDefaultsView.swift */; };
+		49A8BAAE29D2D88600E8702C /* CodableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A8BAAD29D2D88600E8702C /* CodableView.swift */; };
+		49C028E929CC4F07001B31BD /* AnimationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028E829CC4F07001B31BD /* AnimationView1.swift */; };
+		49C028EB29CC5412001B31BD /* AnimationView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028EA29CC5412001B31BD /* AnimationView4.swift */; };
+		49C028ED29CC579A001B31BD /* AnimationView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028EC29CC579A001B31BD /* AnimationView5.swift */; };
+		49C028EF29CC5A1B001B31BD /* AnimationView6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028EE29CC5A1B001B31BD /* AnimationView6.swift */; };
+		49C028F129CC5CD5001B31BD /* AnimationView7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028F029CC5CD5001B31BD /* AnimationView7.swift */; };
+		49C028F329CC5E9B001B31BD /* AnimationView8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C028F229CC5E9B001B31BD /* AnimationView8.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +67,18 @@
 		499A93F829B213AB00875591 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		49A2EFDA29CA12C300FB434C /* ss2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss2.png; sourceTree = "<group>"; };
 		49A2EFDB29CA12C300FB434C /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss1.png; sourceTree = "<group>"; };
+		49A8BA9E29D1EE3900E8702C /* @StateLimitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@StateLimitationView.swift"; sourceTree = "<group>"; };
+		49A8BAA129D1F13000E8702C /* @StateObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@StateObjectView.swift"; sourceTree = "<group>"; };
+		49A8BAA429D1F3D800E8702C /* MultipleViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleViews.swift; sourceTree = "<group>"; };
+		49A8BAA729D1F76D00E8702C /* onDeleteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onDeleteView.swift; sourceTree = "<group>"; };
+		49A8BAAA29D1FC3900E8702C /* UserDefaultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsView.swift; sourceTree = "<group>"; };
+		49A8BAAD29D2D88600E8702C /* CodableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableView.swift; sourceTree = "<group>"; };
+		49C028E829CC4F07001B31BD /* AnimationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView1.swift; sourceTree = "<group>"; };
+		49C028EA29CC5412001B31BD /* AnimationView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView4.swift; sourceTree = "<group>"; };
+		49C028EC29CC579A001B31BD /* AnimationView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView5.swift; sourceTree = "<group>"; };
+		49C028EE29CC5A1B001B31BD /* AnimationView6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView6.swift; sourceTree = "<group>"; };
+		49C028F029CC5CD5001B31BD /* AnimationView7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView7.swift; sourceTree = "<group>"; };
+		49C028F229CC5E9B001B31BD /* AnimationView8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,8 +115,14 @@
 			children = (
 				49A2EFD829CA116B00FB434C /* Screenshots */,
 				4987650329B6030D0080E1A9 /* AnimationView.swift */,
+				49C028E829CC4F07001B31BD /* AnimationView1.swift */,
 				4987650729B608D80080E1A9 /* AnimationView2.swift */,
 				4987650929B60C0D0080E1A9 /* AnimationView3.swift */,
+				49C028EA29CC5412001B31BD /* AnimationView4.swift */,
+				49C028EC29CC579A001B31BD /* AnimationView5.swift */,
+				49C028EE29CC5A1B001B31BD /* AnimationView6.swift */,
+				49C028F029CC5CD5001B31BD /* AnimationView7.swift */,
+				49C028F229CC5E9B001B31BD /* AnimationView8.swift */,
 				4987650529B605D50080E1A9 /* Animations.md */,
 			);
 			path = Animation;
@@ -127,6 +157,12 @@
 				4930DBBC29B2DEED00F2CCB3 /* AppBundle */,
 				4930DBC529B2E52200F2CCB3 /* Strings */,
 				4987650229B602E50080E1A9 /* Animation */,
+				49A8BA9D29D1EE0500E8702C /* @State Limitation */,
+				49A8BAA029D1F11900E8702C /* @StateObject */,
+				49A8BAA329D1F3C400E8702C /* Showing and Hiding Views */,
+				49A8BAA629D1F75300E8702C /* onDelete() */,
+				49A8BAA929D1FC1900E8702C /* User Defaults */,
+				49A8BAAC29D2D87100E8702C /* Codable */,
 				499A93E729B18AD700875591 /* Assets.xcassets */,
 				499A93E929B18AD700875591 /* Preview Content */,
 			);
@@ -199,6 +235,54 @@
 				49A2EFDA29CA12C300FB434C /* ss2.png */,
 			);
 			path = SimpleImplicitAnimation;
+			sourceTree = "<group>";
+		};
+		49A8BA9D29D1EE0500E8702C /* @State Limitation */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BA9E29D1EE3900E8702C /* @StateLimitationView.swift */,
+			);
+			path = "@State Limitation";
+			sourceTree = "<group>";
+		};
+		49A8BAA029D1F11900E8702C /* @StateObject */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BAA129D1F13000E8702C /* @StateObjectView.swift */,
+			);
+			path = "@StateObject";
+			sourceTree = "<group>";
+		};
+		49A8BAA329D1F3C400E8702C /* Showing and Hiding Views */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BAA429D1F3D800E8702C /* MultipleViews.swift */,
+			);
+			path = "Showing and Hiding Views";
+			sourceTree = "<group>";
+		};
+		49A8BAA629D1F75300E8702C /* onDelete() */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BAA729D1F76D00E8702C /* onDeleteView.swift */,
+			);
+			path = "onDelete()";
+			sourceTree = "<group>";
+		};
+		49A8BAA929D1FC1900E8702C /* User Defaults */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BAAA29D1FC3900E8702C /* UserDefaultsView.swift */,
+			);
+			path = "User Defaults";
+			sourceTree = "<group>";
+		};
+		49A8BAAC29D2D87100E8702C /* Codable */ = {
+			isa = PBXGroup;
+			children = (
+				49A8BAAD29D2D88600E8702C /* CodableView.swift */,
+			);
+			path = Codable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -283,13 +367,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				499A93F929B213AB00875591 /* ListView.swift in Sources */,
+				49C028F129CC5CD5001B31BD /* AnimationView7.swift in Sources */,
 				499A93F529B18DBC00875591 /* FormView.swift in Sources */,
+				49C028F329CC5E9B001B31BD /* AnimationView8.swift in Sources */,
 				499A93E629B18AD600875591 /* ContentView.swift in Sources */,
 				4930DBC029B2DF3900F2CCB3 /* AppBundleView.swift in Sources */,
 				4987650A29B60C0D0080E1A9 /* AnimationView3.swift in Sources */,
+				49A8BAAE29D2D88600E8702C /* CodableView.swift in Sources */,
+				49C028E929CC4F07001B31BD /* AnimationView1.swift in Sources */,
 				4987650829B608D80080E1A9 /* AnimationView2.swift in Sources */,
+				49C028ED29CC579A001B31BD /* AnimationView5.swift in Sources */,
+				49A8BAA229D1F13000E8702C /* @StateObjectView.swift in Sources */,
+				49C028EB29CC5412001B31BD /* AnimationView4.swift in Sources */,
+				49A8BAA529D1F3D800E8702C /* MultipleViews.swift in Sources */,
+				49A8BA9F29D1EE3900E8702C /* @StateLimitationView.swift in Sources */,
+				49C028EF29CC5A1B001B31BD /* AnimationView6.swift in Sources */,
+				49A8BAAB29D1FC3900E8702C /* UserDefaultsView.swift in Sources */,
 				4987650429B6030D0080E1A9 /* AnimationView.swift in Sources */,
 				499A93E429B18AD600875591 /* SwiftUI_ConceptsApp.swift in Sources */,
+				49A8BAA829D1F76D00E8702C /* onDeleteView.swift in Sources */,
 				4930DBC729B2E53800F2CCB3 /* StringsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
